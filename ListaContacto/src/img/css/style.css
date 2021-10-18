@@ -19,6 +19,7 @@
     padding: 10px
 }
 .lista_contacto{
+    margin-top: 20px;
     background-color:rgb(98, 9, 128);
     padding-top: 10px;
     box-sizing: border-box;
@@ -49,6 +50,7 @@
     
 }
 .contenedor-flexbox{
+    
     display: flex;
     flex-direction: row;
     justify-content: center;
